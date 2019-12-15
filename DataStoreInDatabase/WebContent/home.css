@@ -1,0 +1,27 @@
+.h1{
+  text-align: center;
+
+color:balck;
+background:skyblue;
+
+}
+.form{
+  text-align:center;
+  backgroud:purple;
+  color:skyblue
+}
+.div{
+  align:center;
+  width:300px;
+  height: 300px;
+  border-width: 10px;
+  border-color: pink;
+  border-style:solid;
+  background:skyblue;
+
+
+}
+body{
+  background-color: pink;
+  
+}
